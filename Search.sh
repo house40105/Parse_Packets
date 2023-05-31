@@ -9,7 +9,7 @@
 # 配置MySQL連線
 DB_HOST="localhost"
 DB_USER="user"
-DB_PASS="User40105"
+DB_PASS="*********"
 DB_NAME="mydatabase"
 
 # Function to display search menu
