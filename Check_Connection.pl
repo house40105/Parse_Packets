@@ -15,7 +15,7 @@ use NetPacket::IP;
 my $db_host = 'localhost';
 my $db_name = 'mydatabase';
 my $db_user = 'user';
-my $db_pass = 'User40105';
+my $db_pass = '*********';
 
 
 package Emp;
