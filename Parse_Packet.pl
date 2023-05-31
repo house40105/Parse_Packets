@@ -8,7 +8,7 @@ use NetPacket::IP;
 use NetPacket::Ethernet
 
 
-##### hello.pl
+##### Parse_Packet.pl
 #
 # Version 1.0: 用 perl 解析 pcap 並寫入 DB
 #
