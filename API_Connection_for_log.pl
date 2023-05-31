@@ -25,7 +25,7 @@ CONFIG
 my $logger = Log::Log4perl->get_logger('API');
 
 # 設置API URL
-my $api_url = 'http://192.168.0.114:8000/check_connection';
+my $api_url = 'http://******************/check_connection';
 
 # 建立LWP::UserAgent
 my $ua = LWP::UserAgent->new;
