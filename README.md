@@ -34,7 +34,7 @@ If there is an error with the MySQL connection, the API response will be a JSON-
 In  API_Connection_for_log.pl, we use the LWP::UserAgent module to send an HTTP GET request to the API and the Log::Log4perl module to log the results into a log file.  
 
 We schedule the task using crontab to execute the API request at regular intervals and log the results to the log file. You can adjust the interval of the timer according to your requirements.  
-![](fig/2023-06-01 11 35 04.png)
+![](https://github.com/house40105/Parse_Packets/blob/main/fig/2023-06-01%2011%2035%2004.png)
 
 Alternatively, you can set up a timer using the AnyEvent module in your code.  
 
