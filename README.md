@@ -7,7 +7,7 @@ We need to implement the following functionalities:
 3. Write a Perl script that periodically connects to the above HTTP API and logs the results.  
 4. Write a Bash script to query and retrieve data from the MySQL database.  
  
-Below is a summary of each functionality along with the organized example code:  
+Below is a summary of each functionality along with the organized description:  
 
 #### Process in Perl for Packet Analysis  
 **File name: Parse_Packets.pl**  
